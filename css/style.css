@@ -15,7 +15,7 @@ body {
     color: var(--bark-brown);
 }
 
-.header {
+header {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -39,12 +39,12 @@ main {
     color: white;
 }
 
-.post-article {
+article {
     display: flex;
     flex-direction: column;
 }
 
-.title {
+h1 {
     align-self: center;
     padding: 0.25rem;
     margin: 0.25rem;
